@@ -28,7 +28,7 @@ const Header = () => {
             <option value="pidgin">Pidgin</option>
             <option value="hausa">Hausa</option>
             <option value="yoruba">Yoruba</option>
-            <option value="igba">Igba</option>
+            <option value="igbo">Igbo</option>
           </select>
         </div>
       </header>

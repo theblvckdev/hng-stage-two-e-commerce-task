@@ -3,3 +3,9 @@ export interface NavbarLinks {
   path: string;
   isActive: boolean;
 }
+
+export interface HeroSideMenu {
+  title: string;
+  path: string;
+  icon: boolean;
+}
