@@ -1,3 +1,4 @@
+import FlashSales from "@/components/flash_sales";
 import Hero from "@/components/hero";
 import Header from "@/components/ui/header";
 import Navbar from "@/components/ui/navbar";
@@ -11,6 +12,7 @@ const Home = () => {
 
       <main>
         <Hero />
+        <FlashSales />
       </main>
     </>
   );

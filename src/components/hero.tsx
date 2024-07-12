@@ -4,7 +4,7 @@ import HeroBanner from "./hero_banner";
 
 const Hero = () => {
   return (
-    <section>
+    <section className="lg:pb-[4rem]">
       <div className="max-w-6xl mx-auto xl:px-0 md:px-5 px-0">
         <div className="flex flex-row">
           <div className="basis-1/4 lg:block hidden">
